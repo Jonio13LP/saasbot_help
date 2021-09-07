@@ -1,38 +1,21 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
+about: Helfe mir, den Bot zu verbessern.
+title: "[BUG]"
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Du hast einen Bug gefunden?**
+Dann kannst du genau [Hier](https://github.com/Jonio13LP/saasbot_help/issues) einen Bugreport erstellen!
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Was drinne stehen sollte:**
+> Dein Discord Name#Tag, damit wir dich schneller erreichen können
+> Wann ist der Bug aufgetreten?
+> Bei Welchen Command / Event ist der Bug aufgetreten
+> Was ist dabei passiert?
+> Konnten andere den Bug schon Reproduzieren?
+> Optional Bilder oder weiteres
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Ich kümmer mich dann so schnell es geht darum, dass diese Bugs beseitigt werden :D
